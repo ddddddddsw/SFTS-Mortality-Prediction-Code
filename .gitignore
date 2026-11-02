@@ -1,0 +1,8 @@
+origindata.csv
+analysis_output/
+*.csv
+*.rds
+*.RData
+.Rhistory
+.Ruserdata
+.Rproj.user/
