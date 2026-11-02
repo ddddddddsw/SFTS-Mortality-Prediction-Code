@@ -1,0 +1,5 @@
+Copyright (c) 2026 the study authors. All rights reserved.
+
+This repository is made available for inspection of the methods described in the associated study. No general license to reuse, modify, redistribute, incorporate into other projects, or use commercially is granted. Permission for such uses must be obtained from the copyright holder. Rights required by applicable law or by the hosting platform's terms are unaffected.
+
+The material is provided as is, without warranty. Replace "the study authors" with the verified copyright holder before publication. This notice describes intended access and reuse restrictions and is not a substitute for institutional or legal review.
